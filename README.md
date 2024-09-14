@@ -30,8 +30,7 @@ Welcome to my internship tasks repository! This repo includes five machine learn
    - Output:
      - A classifer which labels images either into a Cat or Dog.   
 
-Conclusion
-Feel free to explore each project and contact me if you have any questions!
+
 
 
 4. Task 4:image_and_fooditems_recognisation using ml
