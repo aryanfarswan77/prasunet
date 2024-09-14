@@ -35,6 +35,7 @@ Feel free to explore each project and contact me if you have any questions!
 
 
 4. Task 4:image_and_fooditems_recognisation using ml
+   
    🔍 Overview: In my final task, I developed a model to recognize various food items from images, utilizing deep learning techniques and computer vision. This project helped me explore image recognition pipelines, feature extraction, and neural networks, leading to accurate predictions and classifications.
 
 💡 Skills Used:
